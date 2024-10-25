@@ -1,0 +1,12 @@
+{
+  "name": "ai-pdf-ws",
+  "version": "1.0.0",
+  "description": "Web Server for File Conversion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "AquarLabs",
+  "license": "ISC"
+}
